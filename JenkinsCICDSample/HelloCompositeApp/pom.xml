@@ -94,7 +94,7 @@
         <configuration>
           <carbonServers>
             <CarbonServer>
-              <trustStorePath>${basedir}/../../wso2carbon.jks</trustStorePath>
+              <trustStorePath>/Users/ayeshd/Documents/Tickets/EI/MACMILLANPROD-88/keystore/client-truststore.jks</trustStorePath>
               <trustStorePassword>wso2carbon</trustStorePassword>
               <trustStoreType>JKS</trustStoreType>
               <serverUrl>https://localhost:9443</serverUrl>
