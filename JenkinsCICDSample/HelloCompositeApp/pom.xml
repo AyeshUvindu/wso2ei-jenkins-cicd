@@ -97,7 +97,7 @@
               <trustStorePath>/Users/ayeshd/Documents/Tickets/EI/MACMILLANPROD-88/keystore/client-truststore.jks</trustStorePath>
               <trustStorePassword>wso2carbon</trustStorePassword>
               <trustStoreType>JKS</trustStoreType>
-              <serverUrl>https://localhost:9443</serverUrl>
+              <serverUrl>https://169.254.107.244:9443</serverUrl>
               <userName>admin</userName>
               <password>admin</password>
               <operation>deploy</operation>
